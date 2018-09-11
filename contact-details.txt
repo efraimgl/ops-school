@@ -1,2 +1,2 @@
-name: first last
-email: name@email.com
+name: Efraim Glatt
+email: efraimg@tase.co.il
